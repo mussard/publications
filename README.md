@@ -8,6 +8,19 @@ This, and more, is also available on [my website](https://mussard.github.io/)
 
 # Publications
 
+
+([Google Scholar](https://scholar.google.com/citations?hl=fr&amp;user=hMxDEwcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate))
+([arXiv](https://arxiv.org/a/mussard_b_1.html))  
+([GitHub](https://github.com/mussard))
+([GitLab](https://gitlab.com/mussard))
+([BitBucket](https://bitbucket.org/bastien_mussard/))  
+([ResearcherID](http://www.researcherid.com/rid/G-9441-2013))
+([ORCID](http://orcid.org/0000-0002-0826-4719))
+([Archives Ouvertes](http://cv.archives-ouvertes.fr/bastien-mussard))
+([ResearchGate](https://www.researchgate.net/profile/Bastien_Mussard))
+([Academia](https://upmc.academia.edu/BastienMussard))
+
+
 15.**Random phase approximation in projected oscillator orbitals**  
  B. Mussard, Theor. Chem. Acc. **137** 165 (2018)  
  **In Memoriam of János Ángyán**  
