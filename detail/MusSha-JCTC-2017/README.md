@@ -6,7 +6,7 @@
  ([hal](http://hal.upmc.fr/hal-01612879))
  ([arxiv](http://arxiv.org/abs/1710.00259))
  
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/coinage.png)
 

@@ -6,7 +6,7 @@
  ([hal](http://hal.upmc.fr/hal-01528081))
  ([arxiv](http://arxiv.org/abs/1705.09813))
  
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/plot_LRVMC.png)
 

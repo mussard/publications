@@ -3,7 +3,7 @@
  ([doi](http://dx.doi.org/10.1021/ct9003405))
  ([bib](doc/CamMusWoo-JCTC-2009.bib))
 
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/repeat.png)
 

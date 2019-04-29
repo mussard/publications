@@ -7,7 +7,7 @@
  ([hal](https://hal.archives-ouvertes.fr/hal-01911815))
  ([arxiv](https://arxiv.org/abs/1811.03544))
 
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/basis_new.png)
 

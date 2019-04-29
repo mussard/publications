@@ -7,7 +7,7 @@
  ([arxiv](http://arxiv.org/abs/1604.06549))
  ([suppmat](doc/MusRocJanAng-JCTC-2016-SuppInfo.pdf))
 
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/Atomic_PBERPA.png)
 

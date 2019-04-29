@@ -6,7 +6,7 @@
  ([hal](http://hal.upmc.fr/hal-01277883))
  ([arxiv](http://arxiv.org/abs/1602.07202))
  
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/DistStateEnergies_transparent.png)
 

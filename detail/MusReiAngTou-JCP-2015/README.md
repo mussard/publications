@@ -8,7 +8,7 @@
  ([suppmat](doc/MusReiAngTou-JCP-2015-SuppMat.pdf))
  ([erratum](doc/MusReiAngTou-JCP-2015-Erratum.pdf))
 
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/rshrpa.png)
 

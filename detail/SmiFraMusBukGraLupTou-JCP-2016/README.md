@@ -6,7 +6,7 @@
  ([hal](http://hal.upmc.fr/hal-01346158))
  ([arxiv](https://arxiv.org/abs/1607.05481))
  
-([back to publications](../../))
+([back to publications](https://github.com/mussard/publications/))
 
 ![](../img/oep1dh.png)
 
